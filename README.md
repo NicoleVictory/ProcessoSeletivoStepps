@@ -15,12 +15,8 @@ Esse projeto é composto por 3 questões de programação em Python que pode se 
 
 ```
 ## 📈 Análise
-- Os grupos 17_to_25 e 40_to_64 estão na liderança do número de acidentes causados
+- Gráficos extraidos da análise proposta pela questão 02 da Parte 2
 ![image](https://github.com/NicoleVictory/ProcessoSeletivoStepps/assets/99563517/85ebf2db-1440-411b-bad8-91e47905f4ad)
-
-- No tipo de acidente Multiple, os grupos de idade mais representativos são 40_to_64 com **27,87%** e 17_to_25 com **22,76%**.
-- No tipo de acidente Single, os grupos de idade mais representativos são 17_to_25 com **28,80%** e 26_to_39 com **23,99%**.
-
 
 ![image](https://github.com/NicoleVictory/ProcessoSeletivoStepps/assets/99563517/39371fd6-c57f-4805-bb85-4a814be53a94)
 
